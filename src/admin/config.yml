@@ -1,6 +1,7 @@
 backend:
   # Use netlify identity as backend
-  name: git-gateway
+  name: proxy
+  proxy_url: http://localhost:8998/api/v1
   branch: master
   ### enable below lines for github integration ###
   # name: github

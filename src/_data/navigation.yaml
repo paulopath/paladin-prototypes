@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: PauloPATH
+    url: https://www.paulopath.com
+  - text: Resume
+    url: https://www.linkedin.com/in/paulopath/
   - text: Blog
-    url: "/blog"
+    url: /blog
